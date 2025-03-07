@@ -2,10 +2,10 @@ Primeiro Desafio da Trilha Full-Stack da Rocketseat consiste em criar uma landin
 
 Tecnologias Usadas
 
-• HTML
-• CSS
-• GIT/GITHUB
-• FIGMA
+• HTML <br>
+• CSS <br>
+• GIT/GITHUB <br>
+• FIGMA <br>
 
 Acesse o Deploy:
 
